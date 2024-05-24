@@ -2,16 +2,10 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I am a Master's student at Indian Institute of Technology(IIT), Guwahati</h3>
 
-- 🔭 I’m currently working on Debiasing methods 
-      for entity identification task in Biomedical domain
-
-- 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **Deep Learning, Image Processing, Web Dev**
   
 - 👨‍💻 LinkedIn : [https://www.linkedin.com/in/aviralsingh99/](https://www.linkedin.com/in/aviralsingh99/)
-
-- 📫 How to reach me **aviralsingh99@gmail.com**
 
 - 👨‍💻 CodeChef : <a href="https://www.codechef.com/users/aviral101" target="blank">https://www.codechef.com/users/aviral101</a>
 </br>
