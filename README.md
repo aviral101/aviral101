@@ -1,4 +1,4 @@
-<img align="center" width="1000" src="https://i.imgur.com/vhC5PBm.gif">
+#<img align="center" width="1000" src="https://i.imgur.com/vhC5PBm.gif">
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I am a Master's student at Indian Institute of Technology(IIT), Guwahati</h3>
 
